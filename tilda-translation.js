@@ -1,4 +1,4 @@
-<script>
+// JavaScript code
 // Конфигурация
 const supportedLangs = ['ru', 'en', 'th'];
 const defaultLang = 'ru';
@@ -221,4 +221,3 @@ if (document.readyState === 'complete') {
 
 // Обработчик истории
 window.addEventListener('popstate', initLanguageSystem);
-</script>

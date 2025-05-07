@@ -367,7 +367,7 @@
 "--- Блок 8:Модели оплаты ---":"",
 "Модели оплаты": "Payment models",
 "CPQL/CPL": "CPQL/CPL",
- "ОПЛАТА ЗА ЦЕЛЕВОГО ЛИДА": "PAYMENT FOR QUALIFIED LEAD"
+ "ОПЛАТА ЗА ЦЕЛЕВОГО ЛИДА": "PAYMENT FOR QUALIFIED LEAD",
 "Как это работает": "How it works",
 "Оплата только за квалифицированных лидов, соответствующих заданным критериям. Кампании настраиваются для поиска реально заинтересованных клиентов.": "You pay only for qualified leads that meet specific criteria. Campaigns are configured to attract truly interested clients.",
 "Оплата": "Payment",
